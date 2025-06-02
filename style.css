@@ -1,2 +1,6 @@
 @import "./styles/global.css";
-@import "./styles/root.css"
+@import "./styles/root.css";
+
+body{
+    font-size: 1.6rem;
+}
